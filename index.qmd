@@ -5,4 +5,15 @@ format:
         toc: false
 ---
 
-The data we are going to use can be found at this [link](data/ames.csv)
+Welcome to the hackathon!
+ 
+The survey determined that Data Visualisation and Machine Learning will be the
+topics of interest.
+ 
+In year 1 we created static plots and simpler models such as Linear and Logistic
+Regressions. 
+ 
+You have been asked to investigate new packages and methodologies and evaluate
+their use as an innovative method for your organisation.
+
+You will use the [Ames Housing Data](data/ames.csv) for this task.

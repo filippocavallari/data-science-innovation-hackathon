@@ -1,0 +1,8 @@
+---
+title: "Welcome!"
+format:
+    html:
+        toc: false
+---
+
+The data we are going to use can be found at this [link](data/ames.csv)
